@@ -7,7 +7,6 @@ My first ctf report which has Arbitary File Upload Vulnerability.
 
 5. Then i looked for the arbitary file upload feature.
 6. First I uploaded a sample image, and checked its location on server using inspect element.
-7. <img width="556" alt="inspect" src="https://github.com/AmanDekate1/SecurityBoat-2024-CTF-January-Challenge/assets/101728835/e6d08eaa-0bb1-4156-b0c5-31f8494009b1">
 
 8. It was time for a script..
   <?php 
